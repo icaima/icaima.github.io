@@ -8461,10 +8461,10 @@ h1, h2, h3, h4, h5,
           font-size: 50px;
           color: #fff;
           line-height: 1.3;
-          font-weight: 900;
+          font-weight: 700;
           text-transform: uppercase; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
-            font-weight: 900;
+            font-weight: 700;
             color: #033fff; }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text h1 {
