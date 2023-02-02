@@ -8851,7 +8851,7 @@ h1, h2, h3, h4, h5,
       transition: all 0.3s ease; }
     .staff .text h3 {
       font-size: 20px;
-      font-weight: 900;
+      font-weight: 700;
       margin-bottom: 0;
       line-height: 1.1;
       color: #fff;
@@ -8861,9 +8861,7 @@ h1, h2, h3, h4, h5,
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease;
       text-transform: uppercase; }
-    .staff .text .position {
-      font-size: 20px;
-      font-weight: 500;
+    .staff .text .position {      
       text-transform: uppercase;
       color: #fbb901;
       display: block;
