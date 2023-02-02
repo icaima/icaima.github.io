@@ -8831,7 +8831,7 @@ h1, h2, h3, h4, h5,
       background: #033fff;
       opacity: .2; }
   .staff .text {
-    width: 80%;
+    width: 100%;
     opacity: 1;
     color: rgba(0, 0, 0, 0.6);
     z-index: 1;
