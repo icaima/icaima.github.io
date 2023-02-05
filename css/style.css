@@ -9760,6 +9760,11 @@ textarea.form-control {
   -moz-background-size: cover;
   background-size: cover;*/
 }
+.lgx-sponsors-black .text {
+    width: calc(100% - 120px); }
+    lgx-sponsors-black .text h2 {
+      font-size: 24px;
+      font-weight: 700; }
 .lgx-sponsors-black .lgx-inner {
   background: rgba(27, 39, 61, 0.95);
 }
