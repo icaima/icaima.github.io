@@ -8867,11 +8867,18 @@ h1, h2, h3, h4, h5,
       display: block;
       letter-spacing: 1px; }
     .staff .ftco-social {
-  text-align: right;
-  padding: 1rem 2rem;
+      background: #1976d2;
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      z-index: 99;
+      text-align: right;
+      padding: 1rem 2rem;
+      opacity: 0;
 }
   .staff .ftco-social li a {
-  color: #fff;
+     color: #fff;
+      display: block;
 }
 
 .ftco-social {
