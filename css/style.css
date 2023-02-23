@@ -9244,7 +9244,7 @@ textarea.form-control {
     height: 50px;
     width: 50px;
     display: block;
-    float: left;
+    float: center;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
     position: relative; }
@@ -9252,7 +9252,7 @@ textarea.form-control {
       position: absolute;
       font-size: 26px;
       top: 50%;
-      left: 50%;
+      center: 50%;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
